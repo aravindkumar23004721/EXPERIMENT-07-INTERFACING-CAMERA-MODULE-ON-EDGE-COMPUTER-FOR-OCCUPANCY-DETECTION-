@@ -1,5 +1,4 @@
-<img width="1825" height="1002" alt="image" src="https://github.com/user-attachments/assets/3fb19006-3316-4676-aa71-81bdcabc620b" /># EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
-
+# EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
 
 ### AIM:
 To interface a USB/CSI camera module with an edge computing platform (e.g., Raspberry Pi, Jetson Nano, etc.) and implement an occupancy detection system using the Histogram of Oriented Gradients (HOG) algorithm.
